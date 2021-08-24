@@ -21,3 +21,5 @@ Requirements:
 
 	-> imblearn
 You need to make suggested changes to make it work see: https://github.com/androguard/androguard/issues/769
+
+![](https://github.com/umkhanqta/MLPWakeLock/blob/main/NN%20Model%20Diagram.png)
